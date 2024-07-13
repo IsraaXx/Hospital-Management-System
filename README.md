@@ -15,4 +15,13 @@ The Hospital Management System is designed to manage the data of doctors, patien
 - **Diagnosis Management:** Add, update, delete, and view diagnosis details.
 - **Report Generation:** Generate reports with meaningful data from the database, such as the last 5 patients added and the number of doctors in each specialization.
 
+ ## Screenshots
+
+![Form 1](Media/home.png)
+![Form 2](Media/report.png)
+![Form 3](Media/login.png)
+![Form 4](Media/Doctorr.png)
+![Form 5](Media/Patientt.png)
+![Form 6](Media/Diagnosiss.png)
+
 
