@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center;">
-    <img src="Media/stethoscope.png" height="130px" style="margin-right: 10px;">Hospital-Management-System
+    <img src="Media/stethoscope.png" height="130px" style="margin-right: 10px;">Hospital Management System
 </h1>
 
 
