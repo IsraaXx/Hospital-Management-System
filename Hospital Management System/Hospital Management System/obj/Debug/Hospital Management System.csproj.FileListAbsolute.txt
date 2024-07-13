@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Home.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Home_Page.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportGenerator.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorForm.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientForm.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DiagnosisForm.resources
+C:\Users\user\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.SignUp.resources
