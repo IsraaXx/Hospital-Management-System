@@ -18,10 +18,15 @@ The Hospital Management System is designed to manage the data of doctors, patien
  ## Screenshots
 
 ![Form 1](Media/home.png)
+
 ![Form 2](Media/report.png)
+
 ![Form 3](Media/login.png)
+
 ![Form 4](Media/Doctorr.png)
+
 ![Form 5](Media/Patientt.png)
+
 ![Form 6](Media/Diagnosiss.png)
 
 
