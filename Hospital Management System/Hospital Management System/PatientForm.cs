@@ -109,11 +109,11 @@ namespace Hospital_Management_System
             // Set column width
             dataGridView1.Columns["patient ID"].Width = 60;
             dataGridView1.Columns["Name"].Width = 150;
-            dataGridView1.Columns["Address"].Width = 200;
-            dataGridView1.Columns["Phone"].Width = 100;
+            dataGridView1.Columns["Address"].Width = 220;
+            dataGridView1.Columns["Phone"].Width = 90;
             dataGridView1.Columns["Age"].Width = 40;
             dataGridView1.Columns["Gender"].Width = 70;
-            dataGridView1.Columns["Blood"].Width = 70;
+            dataGridView1.Columns["Blood"].Width = 60;
             dataGridView1.Columns["Disease"].Width = 150;
 
             // Set alignment
