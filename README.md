@@ -3,7 +3,7 @@
 </h1> 
 
 ## Overview
-
+ 
 The Hospital Management System is designed to manage the data of doctors, patients, and diagnoses in a hospital. The system provides an admin interface that allows administrators to perform CRUD (Create, Read, Update, Delete) operations on doctors, patients, and diagnoses. Additionally, the system can generate reports to provide meaningful insights from the database.
 
 ## Features
